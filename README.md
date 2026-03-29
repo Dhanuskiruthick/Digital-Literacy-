@@ -56,11 +56,10 @@ literacy is, safe internet practices, and professional online presence.
 Tool used: Canva (canva.com)
 
 ### Task 2 – Student Digital Portfolio
-Set up professional profiles on GitHub, LinkedIn, and Kaggle.
-Created a GitHub Profile README with my name, branch, year, and goals.
-- GitHub: https://github.com/[your-username]
+Set up professional profiles on LinkedIn, Kaggle, and ResearchGate.
 - LinkedIn: https://linkedin.com/in/[your-profile]
 - Kaggle: https://kaggle.com/[your-profile]
+- ResearchGate: https://researchgate.net/profile/[your-profile]
 
 ### Task 3 – Coding and Collaboration Platforms
 Completed a beginner coding challenge on HackerRank.
