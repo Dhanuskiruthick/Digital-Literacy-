@@ -59,7 +59,7 @@ Tool used: Canva (canva.com)
 Set up professional profiles on LinkedIn, Kaggle, and ResearchGate.
 - LinkedIn: www.linkedin.com/in/dhanus-kiruthick-b76252217
 - Kaggle: https://www.kaggle.com/dhanuskiruthick
-- ResearchGate: 
+- ResearchGate: https://www.researchgate.net/profile/Dhanus-Kiruthick?ev=hdr_xprf
 
 ### Task 3 – Coding and Collaboration Platforms
 Completed a beginner coding challenge on HackerRank.
