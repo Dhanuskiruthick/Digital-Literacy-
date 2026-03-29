@@ -58,8 +58,8 @@ Tool used: Canva (canva.com)
 ### Task 2 – Student Digital Portfolio
 Set up professional profiles on LinkedIn, Kaggle, and ResearchGate.
 - LinkedIn: www.linkedin.com/in/dhanus-kiruthick-b76252217
-- Kaggle: 
-- ResearchGate: https://researchgate.net/profile/[your-profile]
+- Kaggle: https://www.kaggle.com/dhanuskiruthick
+- ResearchGate: 
 
 ### Task 3 – Coding and Collaboration Platforms
 Completed a beginner coding challenge on HackerRank.
